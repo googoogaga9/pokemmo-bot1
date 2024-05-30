@@ -2,7 +2,7 @@ import pyautogui
 import time
 import random
 from enum import Enum
-
+#dasadvfvafb
 # Constants
 LEFT_KEY = 'a'
 RIGHT_KEY = 'd'
