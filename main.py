@@ -10,7 +10,7 @@ UP_KEY = 'w'
 DOWN_KEY = 's'
 INTERACT_KEY = 'e'
 TIME_PER_SPACE = 0.16
-TIME_TO_TURN = 0.105 # big changes incoming
+TIME_TO_TURN = 0.105 # big changes incoming something else
 
 class Direction(Enum):
     LEFT = 'L'
